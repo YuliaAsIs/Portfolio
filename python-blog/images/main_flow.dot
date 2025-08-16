@@ -1,0 +1,18 @@
+digraph MainFlow {
+    node [shape=box, style=rounded, fontname=Helvetica];
+    rankdir=TB;
+
+    HTTP_Request [label="HTTP Request"];
+    Flask_Routes [label="Flask Routes"];
+    Auth_Routes [label="/login, /register, /logout\nUser authentication"];
+    Blog_Routes [label="/, /post/<id>, /new-post, /edit-post/<id>, /delete/<id>, /about, /contact\nBlog & comment functionality"];
+    SQLAlchemy_Models [label="SQLAlchemy Models\n(User, BlogPost, Comment)"];
+    Database [label="Database (SQLite/SQLAlchemy)"];
+
+    HTTP_Request -> Flask_Routes;
+    Flask_Routes -> Auth_Routes;
+    Flask_Routes -> Blog_Routes;
+    Auth_Routes -> SQLAlchemy_Models;
+    Blog_Routes -> SQLAlchemy_Models;
+    SQLAlchemy_Models -> Database;
+}

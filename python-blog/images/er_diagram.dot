@@ -1,0 +1,12 @@
+digraph ER_Diagram {
+    rankdir=LR;
+    node [shape=record, fontname=Helvetica];
+
+    User [label="{User|+ id : int\l+ name : str\l+ email : str\l+ password : str\l|}"];
+    BlogPost [label="{BlogPost|+ id : int\l+ author_id : int\l+ title : str\l+ subtitle : str\l+ body : text\l+ img_url : str\l+ date : str\l|}"];
+    Comment [label="{Comment|+ id : int\l+ author_id : int\l+ post_id : int\l+ text : text\l|}"];
+
+    User -> BlogPost [label="1..* writes"];
+    User -> Comment [label="1..* writes"];
+    BlogPost -> Comment [label="1..* has"];
+}
