@@ -2,6 +2,9 @@
 
 A full-featured **Python Flask blog website** with **SQLite** database. Users can register, log in, comment on posts, and admins can create, edit, or delete posts. The app uses **CKEditor** for rich text editing, **Bootstrap 5** for responsive design, and **Gravatar-style avatars** for comments.
 
+[GitHub Repository](https://github.com/YuliaAsIs/python-blog)
+
+
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-2.3-green?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) 
 
