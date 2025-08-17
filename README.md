@@ -24,28 +24,6 @@ I am passionate about transforming raw data into meaningful insights that suppor
 
 ---
 
-## 📂 Repository Structure  
-
-```text
-📁 Portfolio-Repository
-┣ 📂 Project-1-Name
-┃ ┣ 📜 README.md
-┃ ┣ 📜 notebook.ipynb
-┃ ┗ 📜 data.csv
-┣ 📂 Project-2-Name
-┃ ┣ 📜 README.md
-┃ ┗ 📜 scripts.py
-┗ 📜 README.md <-- (You are here)
-
-```
-
-Each project folder contains:  
-- **Description** of the project and problem statement  
-- **Source code** (Python/SQL/other)  
-- **Visualizations** and insights  
-
----
-
 ## 📜 Certifications  
 
 
