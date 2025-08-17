@@ -1,6 +1,10 @@
 # Current-and-Future-Technological-Trends
 Data Analysis Project
 
+[GitHub repository](https://github.com/YuliaAsIs/Current-and-Future-Technological-Trends)
+
+
+
 ## 🧠 Objective
 Analyze the data and obtain valuable insights into current and future technological trends using the latest
 Stack Overflow Developer Survey dataset. These insights will play a key role in guiding
