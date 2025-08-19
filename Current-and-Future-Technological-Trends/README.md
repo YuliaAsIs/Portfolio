@@ -80,18 +80,6 @@ and those they wish to work with in the future
 - AWS leads as the most desired platform for cloud services, reflecting its market dominance
 - Most respondents are 24-35 years old, concentrated in North America and Europe, and are Bachelor's degree holders 
 
-
-
----
-
-## 📎 Files in this Repo
-| File | Description |
-|------|-------------|
-| `.ipynb` | Jupyter Notebook with full analysis |
-| `.csv` | Cleaned dataset |
-| `dashboard.pbix` | Power BI Dashboard file |
-| `charts/` | Folder containing exported chart images |
-
 ---
 
 ## 🧩 Future Recomendations
