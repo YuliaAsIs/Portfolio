@@ -55,13 +55,21 @@ and those they wish to work with in the future
 ---
 
 ## 📊 Key Visualizations
-- Dashboard 1: Current Technology Usage
-- Dashboard 2: Future Technology Usage
-- Dashboard 3: Demographics
-- Chart 1: Programming Language Trends
-- Chart 2: Job Postings
-- Chart 3: Average annual Salary($) by Language
-- Chart 4: Operating System Trends
+- Dashboard 1:
+  ![Current Technology Usage](images/CurrentTechnologyUsage.png)
+- Dashboard 2:
+  ![Future Technology Usage](images/FutureTechnologyTrends.png)
+- Dashboard 3:
+  ![Demographics](images/Demographics.png)
+- Chart 1:
+  ![Programming Language Trends](images/Compare_languages.png)
+  
+- Chart 2:
+  ![Job Postings](images/NumJobPosts.png)
+- Chart 3:
+  ![Average annual Salary($) by Language](images/SalaryByLanguage.png)
+- Chart 4:
+  ![Operating System Trends](images/OS.png)
 
 ---
 
