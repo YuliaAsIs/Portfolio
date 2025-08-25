@@ -1,5 +1,7 @@
 # 📊 Stock Market Data Analysis
 
+[GitHub Repository](https://github.com/YuliaAsIs/Stock-Market-Data_Analysis)
+
 ## 🎯 Project Goal
 For this project, I assumed the role of a **Data Analyst** at a startup investment firm that helps customers invest their money in stocks.  
 The main objectives were:
