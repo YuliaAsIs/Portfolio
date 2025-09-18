@@ -1,5 +1,6 @@
 # 🛒 E-commerce Data Analysis with SQL & Power BI
 
+[GitHub Repository](https://github.com/YuliaAsIs/E-Commerce)
 
 ## 📌 Project Overview
 
